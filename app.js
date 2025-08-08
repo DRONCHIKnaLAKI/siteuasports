@@ -1,6 +1,6 @@
 // Конфиг Firebase (замените на свой!)
 const firebaseConfig = {
-  apiKey: "AIzaSy...",
+  apiKey: "pk.eyJ1IjoiZHJvbmxveCIsImEiOiJjbWUyaTQ3YTAwbmVhMmpzYnV2bTZiaWQ2In0.S9mgehHOOA-z6X7yU2vxvQ",
   authDomain: "active-ua.firebaseapp.com",
   projectId: "active-ua",
   storageBucket: "active-ua.appspot.com"
